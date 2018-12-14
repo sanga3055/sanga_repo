@@ -1,2 +1,3 @@
 New file, first content
 Second changes on file.txt
+three
