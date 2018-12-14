@@ -1,2 +1,6 @@
 something to write on the file
 returning to master
+New file, first content
+Second changes on file.txt
+Changes made from secondary branch
+changes made from secondary branch
