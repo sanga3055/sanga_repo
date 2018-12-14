@@ -1,3 +1,7 @@
 New file, first content
 Second changes on file.txt
+<<<<<<< HEAD
 three
+=======
+Changes made from secondary branch
+>>>>>>> secondary-branch
